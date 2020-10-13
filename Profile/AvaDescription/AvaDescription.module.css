@@ -1,0 +1,10 @@
+.descriptionBlock {
+    grid-area: c;
+    background-color: darkslateblue;
+    padding: 10px;
+}
+
+.AvaDescription img {
+    width: 100%;
+    height: 150px;
+}
